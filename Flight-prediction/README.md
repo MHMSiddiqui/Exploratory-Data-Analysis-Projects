@@ -51,8 +51,9 @@ Dataset with flight records including airline, journey date, source, destination
 - Foundation for predictive price modeling
 
 ---
-```
+
 ## 📁 Project Structure
+```
 Flight-Price-EDA/
 │── data/
 │── notebooks/
